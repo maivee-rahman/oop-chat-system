@@ -1,8 +1,8 @@
 # Basic Python Chat System
 
-This is a simple text-based chat room simulation I built with the help of my mentor while learning Object-Oriented Programming (OOP) in Python. 
+I put together this little text-based chat room to get the hang of Object-Oriented Programming (OOP) in Python. Huge thanks to my mentor for helping me build and structure it! 
 
-It doesn't use any external networks or servers—it just runs in the terminal to practice class design, methods, and how objects interact with each other.
+It doesn't use any external networks or servers. It just runs in the terminal to practice class design, methods, and how objects interact with each other.
 
 ### What it does
 * Lets "users" join and leave a chat room.
